@@ -1,3 +1,10 @@
+Deployment
+vpc-inj-light-er3xhv84s-wheddy123s-projects.vercel.app
+Domains
+vpc-inj-light-api.vercel.app
+
+
+
 VPC Injective Light API
 
 Lightweight REST API for querying Injective blockchain data on testnet.
